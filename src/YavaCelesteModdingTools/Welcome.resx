@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAAXNSR0IArs4c6QAAAlZJREFUeJzt3dFugzAMRmE69f1fubueK8XKQhKTc777CdT9sh0IcF2SJInotfsEqvtc12fl8V6L/yc/Kw+megwAnAGAcwYIVvf8zOyZwAoAZwDgDAAcfgbo7fmzf7DsZO6eCawAcAYAzgDAvXefwGrV1vm7WQHgDACcAYDDXQfIZoDd6/xRvdcJrABwBgDOAMDhrgOstvqiQ5xxspnACgBnAOAMAJwzwMNki/w4c2QzgRUAzgDAGQC442cA7/+3WQHgDACcAYA7fgbYLa7beweS2fsTrABwBgDOAMAdNwNUe9Zv9/EyVgA4AwBnAOAePwNU7/nVWQHgDACcAYB73Axgz7+XFQDOAMAZALjyM4A9/6+7NzhaAeAMAJwBgNs+A4zu2z+954/y/QBqMgBwBgBuuIVu+K7eo6x+MNH3BKqLAYAzAHDdLdWe31a950dWADgDAGcA4NL+4f34ttGeP/vbwBkrAJwBgDMAcF/7AXyvXts/3vFTeiyyAsAZADgDANe9J7B0Q5vgtJ4fWQHgDACcAYDb/lxANaf3/MgKAGcA4AwAHH4GoPX8yAoAZwDgDADc9Bmg2jdy6D0/sgLAGQA4AwB3+wwwuqEw/v3RDbgAKwCcAYAzAHD4ewHR6ev+yAoAZwDgDADc1wwQe2B8VtAHB89iBYAzAHAGAC69DpDNBHdDLcILsALAGQA4AwB3e8vNZoRqe/4i7wUIxQDAGQA4/H4AWs+PrABwBgDOAMBN73/V3j1M7/mRFQDOAMAZALjl/XDDdwft+Q1WADgDAGcAJEmSgH4BIutADyslIS8AAAAASUVORK5CYII=</value>
+  </data>
+</root>
